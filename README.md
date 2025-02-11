@@ -1,4 +1,4 @@
-# Página 1 - Portfólio Exercício
+# Página 1 - Projeto portfólio 
 
 Este é um projeto de portfólio desenvolvido como parte do curso da Alura, utilizando HTML e CSS.
 
